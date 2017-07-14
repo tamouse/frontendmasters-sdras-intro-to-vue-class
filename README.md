@@ -1,3 +1,5 @@
+(Forked for class FrontendMasters workshop on July 14, 2017)
+
 # Introduction to Vue Workshop Materials
 
 Starter Materials for Introduction to Vue.js Workshop
